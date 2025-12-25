@@ -4,3 +4,4 @@ httpx
 PyJWT
 tzdata
 email-validator
+pydantic
