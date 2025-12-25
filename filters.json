@@ -1,0 +1,1356 @@
+{
+  "cinemas": [
+    {
+      "value": "106",
+      "label": "Centre Georges-Pompidou",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "101",
+      "label": "Forum des images",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "246",
+      "label": "Jeu de Paume",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "103",
+      "label": "Le Grand Rex",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "107",
+      "label": "Luminor Hôtel de Ville",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "105",
+      "label": "MK2 Beaubourg",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "104",
+      "label": "Pathé BNP Paribas",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "245",
+      "label": "Pathé Palace",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "102",
+      "label": "UGC Ciné Cité Les Halles",
+      "group": "Paris Centre"
+    },
+    {
+      "value": "244",
+      "label": "Ciné-Club de l'ENS",
+      "group": "Paris 05"
+    },
+    {
+      "value": "108",
+      "label": "Cinéma du Panthéon",
+      "group": "Paris 05"
+    },
+    {
+      "value": "109",
+      "label": "Ecoles Cinema Club",
+      "group": "Paris 05"
+    },
+    {
+      "value": "111",
+      "label": "Espace Saint-Michel",
+      "group": "Paris 05"
+    },
+    {
+      "value": "112",
+      "label": "Filmothèque du Quartier Latin",
+      "group": "Paris 05"
+    },
+    {
+      "value": "110",
+      "label": "L'Épée de Bois",
+      "group": "Paris 05"
+    },
+    {
+      "value": "113",
+      "label": "La Clef",
+      "group": "Paris 05"
+    },
+    {
+      "value": "114",
+      "label": "Le Champo",
+      "group": "Paris 05"
+    },
+    {
+      "value": "115",
+      "label": "Le Grand Action",
+      "group": "Paris 05"
+    },
+    {
+      "value": "116",
+      "label": "Reflet Medicis",
+      "group": "Paris 05"
+    },
+    {
+      "value": "117",
+      "label": "Studio des Ursulines",
+      "group": "Paris 05"
+    },
+    {
+      "value": "118",
+      "label": "Studio Galande",
+      "group": "Paris 05"
+    },
+    {
+      "value": "120",
+      "label": "Christine Cinema Club",
+      "group": "Paris 06"
+    },
+    {
+      "value": "122",
+      "label": "L'Arlequin",
+      "group": "Paris 06"
+    },
+    {
+      "value": "123",
+      "label": "Les 3 Luxembourg",
+      "group": "Paris 06"
+    },
+    {
+      "value": "124",
+      "label": "Lucernaire",
+      "group": "Paris 06"
+    },
+    {
+      "value": "125",
+      "label": "MK2 Odéon (St Germain)",
+      "group": "Paris 06"
+    },
+    {
+      "value": "126",
+      "label": "MK2 Odéon (St Michel)",
+      "group": "Paris 06"
+    },
+    {
+      "value": "127",
+      "label": "MK2 Parnasse",
+      "group": "Paris 06"
+    },
+    {
+      "value": "128",
+      "label": "Nouvel Odéon",
+      "group": "Paris 06"
+    },
+    {
+      "value": "129",
+      "label": "Saint-André des Arts",
+      "group": "Paris 06"
+    },
+    {
+      "value": "131",
+      "label": "UGC Danton",
+      "group": "Paris 06"
+    },
+    {
+      "value": "132",
+      "label": "UGC Montparnasse",
+      "group": "Paris 06"
+    },
+    {
+      "value": "133",
+      "label": "UGC Odéon",
+      "group": "Paris 06"
+    },
+    {
+      "value": "134",
+      "label": "UGC Rotonde",
+      "group": "Paris 06"
+    },
+    {
+      "value": "135",
+      "label": "Elysées Lincoln",
+      "group": "Paris 08"
+    },
+    {
+      "value": "137",
+      "label": "Le Balzac",
+      "group": "Paris 08"
+    },
+    {
+      "value": "139",
+      "label": "Publicis Cinémas",
+      "group": "Paris 08"
+    },
+    {
+      "value": "142",
+      "label": "Les 5 Caumartin",
+      "group": "Paris 09"
+    },
+    {
+      "value": "143",
+      "label": "Max Linder Panorama",
+      "group": "Paris 09"
+    },
+    {
+      "value": "144",
+      "label": "UGC Opéra",
+      "group": "Paris 09"
+    },
+    {
+      "value": "145",
+      "label": "L'Archipel",
+      "group": "Paris 10"
+    },
+    {
+      "value": "146",
+      "label": "Le Brady",
+      "group": "Paris 10"
+    },
+    {
+      "value": "147",
+      "label": "Le Louxor",
+      "group": "Paris 10"
+    },
+    {
+      "value": "148",
+      "label": "Majestic Bastille",
+      "group": "Paris 11"
+    },
+    {
+      "value": "149",
+      "label": "MK2 Bastille (Beaumarchais)",
+      "group": "Paris 11"
+    },
+    {
+      "value": "150",
+      "label": "MK2 Bastille (Fg St Antoine)",
+      "group": "Paris 11"
+    },
+    {
+      "value": "151",
+      "label": "La Cinémathèque française",
+      "group": "Paris 12"
+    },
+    {
+      "value": "152",
+      "label": "MK2 Nation",
+      "group": "Paris 12"
+    },
+    {
+      "value": "153",
+      "label": "UGC Ciné Cité Bercy",
+      "group": "Paris 12"
+    },
+    {
+      "value": "154",
+      "label": "UGC Lyon Bastille",
+      "group": "Paris 12"
+    },
+    {
+      "value": "155",
+      "label": "Escurial",
+      "group": "Paris 13"
+    },
+    {
+      "value": "156",
+      "label": "Fondation Jerome Seydoux - Pathé",
+      "group": "Paris 13"
+    },
+    {
+      "value": "157",
+      "label": "MK2 Bibliothèque",
+      "group": "Paris 13"
+    },
+    {
+      "value": "158",
+      "label": "Pathé Les Fauvettes",
+      "group": "Paris 13"
+    },
+    {
+      "value": "159",
+      "label": "UGC Gobelins",
+      "group": "Paris 13"
+    },
+    {
+      "value": "160",
+      "label": "Chaplin Denfert",
+      "group": "Paris 14"
+    },
+    {
+      "value": "162",
+      "label": "L'Entrepôt",
+      "group": "Paris 14"
+    },
+    {
+      "value": "248",
+      "label": "Le Miramar",
+      "group": "Paris 14"
+    },
+    {
+      "value": "163",
+      "label": "Les 7 Parnassiens",
+      "group": "Paris 14"
+    },
+    {
+      "value": "164",
+      "label": "Pathé Alésia",
+      "group": "Paris 14"
+    },
+    {
+      "value": "161",
+      "label": "Pathé Montparnos",
+      "group": "Paris 14"
+    },
+    {
+      "value": "165",
+      "label": "Pathé Parnasse",
+      "group": "Paris 14"
+    },
+    {
+      "value": "166",
+      "label": "Chaplin Saint Lambert",
+      "group": "Paris 15"
+    },
+    {
+      "value": "167",
+      "label": "Pathé Aquaboulevard",
+      "group": "Paris 15"
+    },
+    {
+      "value": "169",
+      "label": "Pathé Beaugrenelle",
+      "group": "Paris 15"
+    },
+    {
+      "value": "168",
+      "label": "Pathé Convention",
+      "group": "Paris 15"
+    },
+    {
+      "value": "170",
+      "label": "Le Ranelagh",
+      "group": "Paris 16"
+    },
+    {
+      "value": "171",
+      "label": "Majestic Passy",
+      "group": "Paris 16"
+    },
+    {
+      "value": "172",
+      "label": "7 Batignolles",
+      "group": "Paris 17"
+    },
+    {
+      "value": "173",
+      "label": "Club de l'étoile",
+      "group": "Paris 17"
+    },
+    {
+      "value": "174",
+      "label": "Le Cinéma des Cinéastes",
+      "group": "Paris 17"
+    },
+    {
+      "value": "175",
+      "label": "Mac-Mahon",
+      "group": "Paris 17"
+    },
+    {
+      "value": "176",
+      "label": "UGC Maillot",
+      "group": "Paris 17"
+    },
+    {
+      "value": "178",
+      "label": "Pathé Wepler",
+      "group": "Paris 18"
+    },
+    {
+      "value": "177",
+      "label": "Studio 28",
+      "group": "Paris 18"
+    },
+    {
+      "value": "249",
+      "label": "La Géode",
+      "group": "Paris 19"
+    },
+    {
+      "value": "179",
+      "label": "MK2 Quai de Loire",
+      "group": "Paris 19"
+    },
+    {
+      "value": "180",
+      "label": "MK2 Quai de Seine",
+      "group": "Paris 19"
+    },
+    {
+      "value": "181",
+      "label": "Parc de la Villette",
+      "group": "Paris 19"
+    },
+    {
+      "value": "182",
+      "label": "Pathé La Villette",
+      "group": "Paris 19"
+    },
+    {
+      "value": "183",
+      "label": "UGC Ciné Cité Paris 19",
+      "group": "Paris 19"
+    },
+    {
+      "value": "184",
+      "label": "CGR Paris Lilas",
+      "group": "Paris 20"
+    },
+    {
+      "value": "185",
+      "label": "MK2 Gambetta",
+      "group": "Paris 20"
+    },
+    {
+      "value": "230",
+      "label": "Espace municipal Jean Vilar",
+      "group": "Arcueil"
+    },
+    {
+      "value": "231",
+      "label": "Mégarama Arcueil",
+      "group": "Arcueil"
+    },
+    {
+      "value": "213",
+      "label": "L'Alcazar",
+      "group": "Asnières-sur-Seine"
+    },
+    {
+      "value": "225",
+      "label": "Le Studio",
+      "group": "Aubervilliers"
+    },
+    {
+      "value": "199",
+      "label": "Théâtre-Cinéma Victor Hugo",
+      "group": "Bagneux"
+    },
+    {
+      "value": "220",
+      "label": "Cin'Hoche",
+      "group": "Bagnolet"
+    },
+    {
+      "value": "203",
+      "label": "Salle Jean-Renoir",
+      "group": "Bois-Colombes"
+    },
+    {
+      "value": "187",
+      "label": "Cinéma Landowski",
+      "group": "Boulogne-Billancourt"
+    },
+    {
+      "value": "188",
+      "label": "Pathé Boulogne",
+      "group": "Boulogne-Billancourt"
+    },
+    {
+      "value": "235",
+      "label": "La Pleiade",
+      "group": "Cachan"
+    },
+    {
+      "value": "206",
+      "label": "Cinéma de Châtillon",
+      "group": "Châtillon"
+    },
+    {
+      "value": "186",
+      "label": "Gaumont Disney Village",
+      "group": "Chessy"
+    },
+    {
+      "value": "241",
+      "label": "Théâtre André Malraux",
+      "group": "Chevilly-Larue"
+    },
+    {
+      "value": "242",
+      "label": "Théâtre-Cinéma Paul-Eluard",
+      "group": "Choisy-le-Roi"
+    },
+    {
+      "value": "193",
+      "label": "Cinéma Jeanne Moreau",
+      "group": "Clamart"
+    },
+    {
+      "value": "189",
+      "label": "Rutebeuf",
+      "group": "Clichy"
+    },
+    {
+      "value": "214",
+      "label": "L'Hélios",
+      "group": "Colombes"
+    },
+    {
+      "value": "211",
+      "label": "Abel Gance",
+      "group": "Courbevoie"
+    },
+    {
+      "value": "229",
+      "label": "UGC Ciné Cité Créteil",
+      "group": "Créteil"
+    },
+    {
+      "value": "228",
+      "label": "Cinémas du palais, Armand-Badéyan",
+      "group": "Créteil"
+    },
+    {
+      "value": "202",
+      "label": "Le Scarron",
+      "group": "Fontenay-aux-Roses"
+    },
+    {
+      "value": "232",
+      "label": "Le Kosmos",
+      "group": "Fontenay-sous-Bois"
+    },
+    {
+      "value": "200",
+      "label": "Jean-Vigo",
+      "group": "Gennevilliers"
+    },
+    {
+      "value": "191",
+      "label": "Ciné d'Issy",
+      "group": "Issy-les-Moulineaux"
+    },
+    {
+      "value": "192",
+      "label": "UGC Issy-les-Moulineaux",
+      "group": "Issy-les-Moulineaux"
+    },
+    {
+      "value": "233",
+      "label": "Le Luxy",
+      "group": "Ivry-sur-Seine"
+    },
+    {
+      "value": "234",
+      "label": "Pathé Quai d'Ivry",
+      "group": "Ivry-sur-Seine"
+    },
+    {
+      "value": "239",
+      "label": "Cinéma Prévert",
+      "group": "Joinville-le-Pont"
+    },
+    {
+      "value": "236",
+      "label": "La Tournelle",
+      "group": "L' Haÿ-les-Roses"
+    },
+    {
+      "value": "219",
+      "label": "L'étoile",
+      "group": "La Courneuve"
+    },
+    {
+      "value": "208",
+      "label": "Ciné Gérard-Philipe",
+      "group": "Le Plessis-Robinson"
+    },
+    {
+      "value": "224",
+      "label": "Cinéma du Garde-Chasse",
+      "group": "Les Lilas"
+    },
+    {
+      "value": "204",
+      "label": "Pathé Levallois",
+      "group": "Levallois-Perret"
+    },
+    {
+      "value": "243",
+      "label": "Théâtre Claude Debussy",
+      "group": "Maisons-Alfort"
+    },
+    {
+      "value": "201",
+      "label": "Cinéma Marcel-Pagnol",
+      "group": "Malakoff"
+    },
+    {
+      "value": "196",
+      "label": "Centre d'art et de culture",
+      "group": "Meudon"
+    },
+    {
+      "value": "209",
+      "label": "Espace Culturel Robert Doisneau",
+      "group": "MEUDON LA FORET"
+    },
+    {
+      "value": "217",
+      "label": "Georges Méliès",
+      "group": "Montreuil"
+    },
+    {
+      "value": "190",
+      "label": "Ciné Montrouge",
+      "group": "Montrouge"
+    },
+    {
+      "value": "197",
+      "label": "Le Village",
+      "group": "Neuilly-sur-Seine"
+    },
+    {
+      "value": "227",
+      "label": "Ciné 104",
+      "group": "Pantin"
+    },
+    {
+      "value": "216",
+      "label": "UGC Ciné Cité La Défense",
+      "group": "Puteaux"
+    },
+    {
+      "value": "215",
+      "label": "Le Central",
+      "group": "Puteaux"
+    },
+    {
+      "value": "223",
+      "label": "Le Trianon",
+      "group": "Romainville"
+    },
+    {
+      "value": "218",
+      "label": "UGC Ciné Cité Rosny",
+      "group": "Rosny-sous-Bois"
+    },
+    {
+      "value": "212",
+      "label": "Ariel - Hauts de Rueil",
+      "group": "Rueil-Malmaison"
+    },
+    {
+      "value": "198",
+      "label": "Les 3 Pierrots",
+      "group": "Saint-Cloud"
+    },
+    {
+      "value": "222",
+      "label": "L'ecran",
+      "group": "Saint-Denis"
+    },
+    {
+      "value": "221",
+      "label": "Pathé Saint-Denis",
+      "group": "Saint-Denis"
+    },
+    {
+      "value": "226",
+      "label": "Espace 1789",
+      "group": "Saint-Ouen"
+    },
+    {
+      "value": "207",
+      "label": "Trianon",
+      "group": "Sceaux"
+    },
+    {
+      "value": "205",
+      "label": "Ciné-Sel",
+      "group": "Sèvres"
+    },
+    {
+      "value": "194",
+      "label": "Cinéma Le Capitole",
+      "group": "Suresnes"
+    },
+    {
+      "value": "238",
+      "label": "Pathé Belle Epine",
+      "group": "Thiais"
+    },
+    {
+      "value": "195",
+      "label": "Cinéma De Vanves",
+      "group": "Vanves"
+    },
+    {
+      "value": "210",
+      "label": "Mégarama Villeneuve-la-Garenne",
+      "group": "Villeneuve-la-Garenne"
+    },
+    {
+      "value": "237",
+      "label": "Le Vincennes",
+      "group": "Vincennes"
+    },
+    {
+      "value": "240",
+      "label": "Les 3 Cinés - Robespierre",
+      "group": "Vitry-sur-Seine"
+    }
+  ],
+  "locations": [
+    {
+      "value": "75000",
+      "label": "Paris",
+      "group": null
+    },
+    {
+      "value": "*",
+      "label": "Paris + Banlieue",
+      "group": null
+    },
+    {
+      "value": "75001",
+      "label": "1er",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75002",
+      "label": "2e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75003",
+      "label": "3e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75004",
+      "label": "4e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75005",
+      "label": "5e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75006",
+      "label": "6e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75007",
+      "label": "7e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75008",
+      "label": "8e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75009",
+      "label": "9e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75010",
+      "label": "10e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75011",
+      "label": "11e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75012",
+      "label": "12e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75013",
+      "label": "13e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75014",
+      "label": "14e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75015",
+      "label": "15e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75016",
+      "label": "16e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75017",
+      "label": "17e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75018",
+      "label": "18e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75019",
+      "label": "19e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "75020",
+      "label": "20e",
+      "group": "Arrondissements"
+    },
+    {
+      "value": "92600",
+      "label": "Asnières-sur-Seine",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92220",
+      "label": "Bagneux",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92270",
+      "label": "Bois-Colombes",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92100",
+      "label": "Boulogne-Billancourt",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92320",
+      "label": "Châtillon",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92140",
+      "label": "Clamart",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92110",
+      "label": "Clichy",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92700",
+      "label": "Colombes",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92400",
+      "label": "Courbevoie",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92260",
+      "label": "Fontenay-aux-Roses",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92230",
+      "label": "Gennevilliers",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92130",
+      "label": "Issy-les-Moulineaux",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92350",
+      "label": "Le Plessis-Robinson",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92300",
+      "label": "Levallois-Perret",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92240",
+      "label": "Malakoff",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92190",
+      "label": "Meudon",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92360",
+      "label": "Meudon la foret",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92120",
+      "label": "Montrouge",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92200",
+      "label": "Neuilly-sur-Seine",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92800",
+      "label": "Puteaux",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92500",
+      "label": "Rueil-Malmaison",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92210",
+      "label": "Saint-Cloud",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92330",
+      "label": "Sceaux",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92150",
+      "label": "Suresnes",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92310",
+      "label": "Sèvres",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92170",
+      "label": "Vanves",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "92390",
+      "label": "Villeneuve-la-Garenne",
+      "group": "Hauts-de-Seine"
+    },
+    {
+      "value": "93300",
+      "label": "Aubervilliers",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93170",
+      "label": "Bagnolet",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93120",
+      "label": "La Courneuve",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93260",
+      "label": "Les Lilas",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93100",
+      "label": "Montreuil",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93500",
+      "label": "Pantin",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93230",
+      "label": "Romainville",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93110",
+      "label": "Rosny-sous-Bois",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93200",
+      "label": "Saint-Denis",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "93400",
+      "label": "Saint-Ouen",
+      "group": "Seine-Saint-Denis"
+    },
+    {
+      "value": "94110",
+      "label": "Arcueil",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94230",
+      "label": "Cachan",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94550",
+      "label": "Chevilly-Larue",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94600",
+      "label": "Choisy-le-Roi",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94000",
+      "label": "Créteil",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94120",
+      "label": "Fontenay-sous-Bois",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94200",
+      "label": "Ivry-sur-Seine",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94340",
+      "label": "Joinville-le-Pont",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94240",
+      "label": "L' Haÿ-les-Roses",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94700",
+      "label": "Maisons-Alfort",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94320",
+      "label": "Thiais",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94800",
+      "label": "Villejuif",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94300",
+      "label": "Vincennes",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "94400",
+      "label": "Vitry-sur-Seine",
+      "group": "Val-de-Marne"
+    },
+    {
+      "value": "77705",
+      "label": "Chessy",
+      "group": null
+    }
+  ],
+  "formats": [
+    {
+      "value": "35mm",
+      "label": "35mm",
+      "group": null
+    },
+    {
+      "value": "3d",
+      "label": "3D",
+      "group": null
+    },
+    {
+      "value": "imax",
+      "label": "Imax",
+      "group": null
+    },
+    {
+      "value": "imax3d",
+      "label": "Imax 3D",
+      "group": null
+    },
+    {
+      "value": "dci",
+      "label": "Dolby Cinema",
+      "group": null
+    },
+    {
+      "value": "dat",
+      "label": "Dolby Atmos",
+      "group": null
+    },
+    {
+      "value": "ice",
+      "label": "ICE",
+      "group": null
+    },
+    {
+      "value": "scx",
+      "label": "ScreenX",
+      "group": null
+    },
+    {
+      "value": "onx",
+      "label": "Onyx Led",
+      "group": null
+    },
+    {
+      "value": "4dx",
+      "label": "4DX",
+      "group": null
+    },
+    {
+      "value": "4de",
+      "label": "4D E-motion",
+      "group": null
+    }
+  ],
+  "languages": [
+    {
+      "value": "VO",
+      "label": "VO uniquement",
+      "group": null
+    },
+    {
+      "value": "VF",
+      "label": "VF uniquement",
+      "group": null
+    },
+    {
+      "value": "VFSTF",
+      "label": "VFSTF",
+      "group": null
+    },
+    {
+      "value": "STF",
+      "label": "ST Français (STF)",
+      "group": null
+    },
+    {
+      "value": "STA",
+      "label": "ST Anglais (STA)",
+      "group": null
+    }
+  ],
+  "cards": [
+    {
+      "value": "ugc",
+      "label": "UGC Illimité",
+      "group": "Illimités"
+    },
+    {
+      "value": "pass",
+      "label": "Pathé CinéPass",
+      "group": "Illimités"
+    },
+    {
+      "value": "librepass",
+      "label": "Cinémathèque LibrePass",
+      "group": "Illimités"
+    },
+    {
+      "value": "cip",
+      "label": "Ciné Carte CIP",
+      "group": "Multi-Places"
+    },
+    {
+      "value": "cinecarte",
+      "label": "Pathé CinéCarte",
+      "group": "Multi-Places"
+    },
+    {
+      "value": "multicine",
+      "label": "Le Club Multiciné",
+      "group": "Multi-Places"
+    },
+    {
+      "value": "mk2",
+      "label": "MK2 Carte 5",
+      "group": "Multi-Places"
+    },
+    {
+      "value": "dulac",
+      "label": "Maison Dulac Cinema",
+      "group": "Multi-Places"
+    },
+    {
+      "value": "lacarte",
+      "label": "UGC 'la carte'",
+      "group": "Multi-Places"
+    },
+    {
+      "value": "ugc!",
+      "label": "UGC Illimité",
+      "group": "Illimités (sans supplément)"
+    },
+    {
+      "value": "pass!",
+      "label": "Pathé CinéPass",
+      "group": "Illimités (sans supplément)"
+    },
+    {
+      "value": "librepass!",
+      "label": "Cinémathèque LibrePass",
+      "group": "Illimités (sans supplément)"
+    },
+    {
+      "value": "librepass|ugc",
+      "label": "LibrePass + UGC",
+      "group": "Combos Illimités"
+    },
+    {
+      "value": "librepass|pass",
+      "label": "LibrePass + Pathé",
+      "group": "Combos Illimités"
+    },
+    {
+      "value": "ugc|pass",
+      "label": "Pathé + UGC",
+      "group": "Combos Illimités"
+    },
+    {
+      "value": "ugc,pass",
+      "label": "Pathé ET UGC",
+      "group": "Combos Illimités"
+    },
+    {
+      "value": "cinecheques",
+      "label": "Cinéchèques",
+      "group": null
+    }
+  ],
+  "dates": [
+    {
+      "value": "week",
+      "label": "Jours : cette semaine",
+      "group": null
+    },
+    {
+      "value": "today",
+      "label": "Aujourd'hui",
+      "group": null
+    }
+  ],
+  "genres": [
+    {
+      "value": "Action",
+      "label": "Action",
+      "group": "Principaux"
+    },
+    {
+      "value": "Aventure",
+      "label": "Aventure",
+      "group": "Principaux"
+    },
+    {
+      "value": "Animation",
+      "label": "Animation",
+      "group": "Principaux"
+    },
+    {
+      "value": "Comédie",
+      "label": "Comédie",
+      "group": "Principaux"
+    },
+    {
+      "value": "Crime",
+      "label": "Crime",
+      "group": "Principaux"
+    },
+    {
+      "value": "Documentaire",
+      "label": "Documentaire",
+      "group": "Principaux"
+    },
+    {
+      "value": "Drame",
+      "label": "Drame",
+      "group": "Principaux"
+    },
+    {
+      "value": "Familial",
+      "label": "Familial",
+      "group": "Principaux"
+    },
+    {
+      "value": "Fantastique",
+      "label": "Fantastique",
+      "group": "Principaux"
+    },
+    {
+      "value": "Histoire",
+      "label": "Histoire",
+      "group": "Principaux"
+    },
+    {
+      "value": "Horreur",
+      "label": "Horreur",
+      "group": "Principaux"
+    },
+    {
+      "value": "Musique",
+      "label": "Musique",
+      "group": "Principaux"
+    },
+    {
+      "value": "Mystère",
+      "label": "Mystère",
+      "group": "Principaux"
+    },
+    {
+      "value": "Romance",
+      "label": "Romance",
+      "group": "Principaux"
+    },
+    {
+      "value": "Science-Fiction",
+      "label": "Science-Fiction",
+      "group": "Principaux"
+    },
+    {
+      "value": "Thriller",
+      "label": "Thriller",
+      "group": "Principaux"
+    },
+    {
+      "value": "Guerre",
+      "label": "Guerre",
+      "group": "Principaux"
+    },
+    {
+      "value": "Western",
+      "label": "Western",
+      "group": "Principaux"
+    }
+  ]
+}
